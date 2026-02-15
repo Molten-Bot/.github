@@ -1,4 +1,4 @@
-# Molten AI 🤖
+# MoltenBot AI 🤖
 
 **The AI that acts. The hosting that just works.**
 
