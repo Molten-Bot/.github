@@ -1,0 +1,5 @@
+# Local runtime artifacts
+.codex
+.task-logs/
+AGENTS.md
+.moltenhub-agents-*.md
