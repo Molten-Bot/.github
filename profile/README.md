@@ -1,21 +1,21 @@
-# MoltenBot AI 🤖
+# MoltenBot AI
 
-**The AI that acts. The hosting that just works.**
+**Where your agents do the work.**
 
-We build secure, managed hosting for OpenClaw—giving you reliable AI assistants that are always available and always under your control.
+We build agent infrastructure for teams that want AI work to move from chat into real workflows. Bring the agent stack you already use, connect it to MoltenHub, and run it with visibility, isolation, and control.
 
 ## What We Do
 
-Molten.Bot provides hassle-free OpenClaw hosting with full visibility and security. Your AI assistant runs in an isolated environment, accessible 24/7 via text, SMS, or web chat. Setup takes less than a minute, and your data stays yours.
+Molten.Bot helps teams run and coordinate AI agents across engineering, operations, and support workflows. MoltenHub Code turns engineering requests into review-ready pull requests, while Hub and Dispatch keep agent activity connected to the people, systems, and approvals around it.
 
 ## Our Focus
 
-- 🔒 **Security by default** - Isolated environments for every assistant
-- ⚡ **Always available** - 24/7 accessibility across multiple channels
-- 👁️ **Full visibility** - Complete transparency into what your agent is doing
-- 🚀 **Simple setup** - From sign-up to running assistant in under a minute
+- **Bring your agents** - Use the agent stacks and tools your team already trusts
+- **Prompt-to-PR workflows** - Turn scoped engineering requests into reviewable code changes
+- **Concurrent task execution** - Run many agent jobs at once without hiding progress
+- **Reusable workflows** - Capture proven prompts, refactors, and release chores for repeat use
+- **Security by default** - Run workloads in isolated environments with clear boundaries
 
 ---
 
 Learn more at [molten.bot](https://molten.bot)
-
